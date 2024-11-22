@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#parent{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    align-items: center;
+    font-size: 25px;
+    padding-top: 10px;
+}
+span{
+  margin-left: 40px;  
+  color: rgb(114, 114, 115); 
+}
+#menu{
+    position: absolute;
+    top: 15px;
+}
+#parent-2{
+    display: flex;
+    margin-left: 300px;
+}
+#content{
+    width: 400px;
+}
+.dig_text-parent{
+    display: flex;
+    justify-content: space-around;
+}
+.icons{
+    margin-left: 400px;
+}
+#parent-3{
+    display: flex;
+    margin-left: 300px;
+    width: 1000px;
+}
+.Unbeatable{
+    width: 450px;
+}
+#parent-4{
+    display: flex;
+    width: 1000px;
+    justify-content: space-between;
+    margin-left: 300px;
+}
+#dig-parent4{
+    width: 100px;
+}
+.content_text-parent{
+    width: 400px;
+}
+#foot{
+    background-color: rgb(167, 168, 169);
+  
+    
+}
+.foot-1{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    width: 1000px;
+    margin-left: 200px;
+}
+
+
